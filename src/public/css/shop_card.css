@@ -1,0 +1,6 @@
+
+.shop__card--img {
+    width: 50px; /* 幅を200pxに設定 */
+    height: auto; /* 高さを150pxに設定 */
+    object-fit: cover; /* 画像が指定したサイズに収まるように調整 */
+}
